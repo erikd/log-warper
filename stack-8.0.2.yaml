@@ -3,6 +3,7 @@ packages: [.]
 
 extra-deps:
 - fmt-0.5.0.0
+- time-units-1.0.0
 - universum-1.0.0
 
 nix:

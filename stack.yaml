@@ -1,6 +1,7 @@
 resolver: lts-10.0
 packages: [.]
-extra-deps: []
+extra-deps:
+- time-units-1.0.0
 
 nix:
   packages: [git, openssh, gmp, binutils]
